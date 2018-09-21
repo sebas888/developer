@@ -1,0 +1,41 @@
+#blog h3,h4 {
+	text-align: center;
+	color: #515151;
+	
+}
+
+#blog .contenedor {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#blog article {
+	margin: 10px;
+}
+
+#blog img {
+	width: 100%;
+	max-width: 280px;
+}
+
+#conte h3,h4 {
+	text-align: center;
+	color: #515151;
+	
+}
+
+#conte .contenedor {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#conte article {
+	margin: 15px;
+}
+
+#conte img {
+	width: 150%;
+	max-width: 280px;
+}
